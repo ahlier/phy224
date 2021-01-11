@@ -1,0 +1,6 @@
+separation (cm) first (degree) 	second	(degree) (20hz)
+15	    2.41	8.56
+12.5    3.7	    10.26
+10 	    4.05	13.67
+7.5     5.57	16.72
+5	    8.97	24.63
